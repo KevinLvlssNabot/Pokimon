@@ -1,0 +1,81 @@
+html, body{
+  height: auto;
+  width: auto;
+
+}
+
+
+#Doduo {
+  margin-left: 950px;
+  margin-top: 20px;
+  height: auto;
+  width: auto;
+}
+
+#Balbuto {
+  margin-left: 100px;
+  height: auto;
+  width: auto;
+}
+
+body{
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa15ff7d-d333-4bf9-b115-95e18f63fe91/d65wjxe-ed312de4-e5e1-43fd-8608-e5d95d2a5913.png/v1/fill/w_398,h_240,q_80,strp/pokemon_x_y_battle_scene_by_jenske05_d65wjxe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQwIiwicGF0aCI6IlwvZlwvYWExNWZmN2QtZDMzMy00YmY5LWIxMTUtOTVlMThmNjNmZTkxXC9kNjV3anhlLWVkMzEyZGU0LWU1ZTEtNDNmZC04NjA4LWU1ZDk1ZDJhNTkxMy5wbmciLCJ3aWR0aCI6Ijw9Mzk4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.y_7E1Y2rwq08-Oq7PraLy5fmpz_oYfoC2DCrXsckVoQ);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#ProgressPvDoduo{
+  margin-left: 20px;
+  width: 50%;
+  background-color: grey;
+  border-radius: 100px;
+  border: black solid 5px;
+  margin-top: 50px;
+}
+
+#PvDoduo {
+  width: 100%;
+  height: 30px;
+  background-color: green;
+  border-radius: 100px;
+}
+
+
+#ProgressPvBalbuto{
+  margin-left: auto;
+  width: 50%;
+  background-color: grey;
+  border-radius: 100px;
+  border: black solid 5px;
+  margin-top: 100px;
+}
+
+#PvBalbuto {
+  width: 100%;
+  height: 30px;
+  background-color: green;
+  border-radius: 100px;
+}
+
+.HP{
+  font-weight: bold;
+  font-family: AR ESSENCE;
+  font-size: 80px;
+  color: green;
+  text-shadow: 0 0 10px black;
+}
+
+#HPBalbuto{
+  float: right;
+  margin-right: 51%;
+  margin-top: 5%;
+}
+
+#HPDoduo{
+  margin-right: 40%;
+  padding: 0px;
+  float: right;
+
+
+}
